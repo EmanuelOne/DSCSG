@@ -1,1 +1,1 @@
-# This is a study Group project from Developer student club (DSC) University of Ilorin
+# This is a study Group project from Developer student clubs (DSC) University of Ilorin
